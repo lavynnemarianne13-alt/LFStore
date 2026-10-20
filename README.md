@@ -1,6 +1,6 @@
 # LFStore
 
-🇺🇸 English
+🇺🇸 English | [Português](README.pt-BR.md)
 
 E-commerce REST API built with **Java 25** and **Spring Boot 4.1**, following a layered architecture and backend development best practices.
 
